@@ -1,5 +1,5 @@
 # Cypress-demo
-An automation test suite for an e-commerce website has been written using Cypress version 12 and following the Page Object Model (POM) design pattern.
+An automation test suite for an -commerce website has been written using Cypress version 12 and following the Page Object Model (POM) design pattern.
 
 ## Folder-Structure
 
